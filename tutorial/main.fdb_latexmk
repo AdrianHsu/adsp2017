@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1497018660 "main.tex" "main.pdf" "main" 1497018661
+["pdflatex"] 1497020141 "main.tex" "main.pdf" "main" 1497020149
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1136768653 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -45,9 +45,15 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt" 1492870139 3520374 473ed07d4fa2c06354b82b1d3951f557 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "main.aux" 1497018660 1513 030efac0206005a86d5da2c3d1c3ab19 ""
-  "main.tex" 1497018661 48614 9de2f13f1ca90b954c05d608c1a837c1 ""
+  "img/1.png" 1497011794 112833 e005343092b5e607b8f9a1baec437cea ""
+  "img/2.png" 1497011798 98466 165a4f9b4837ae9345a36363eea07b69 ""
+  "img/3.png" 1497011802 139569 10ee87f4c4ab2d03a8261d513854a622 ""
+  "img/4.png" 1497011811 898110 5eb1ca8c78e9cba3dde09f4acae98716 ""
+  "img/5.png" 1497011853 160440 313f110894f4761cf8bf8837fa4dce89 ""
+  "img/6.png" 1497011855 89729 61158972dff155ec017cd15f8160f09c ""
+  "main.aux" 1497020141 1515 c4b641d1ef0b6b7fbad0833dd6437366 ""
+  "main.tex" 1497020148 50932 85028f63ee18ed63e580baa6b2001af2 ""
   (generated)
   "main.aux"
-  "main.pdf"
   "main.log"
+  "main.pdf"

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.22)  9 JUN 2017 22:31
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.22)  9 JUN 2017 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -238,24 +238,38 @@ LaTeX Font Info:    ... okay on input line 12.
 
 -- Lines per column: 50 (exact).
 \c@lstlisting=\count114
+File: img/1.png Graphic file (type QTm)
+<use  "img/1.png" >
 Missing character: There is no ’ in font ptmr7t!
-[1]
+File: img/2.png Graphic file (type QTm)
+ <use  "img/2.png" > [1]
+File: img/3.png Graphic file (type QTm)
+ <use  "img/3.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: img/4.png Graphic file (type QTm)
+<use  "img/4.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
 Missing character: There is no ́ in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
+ [3] [4]
 Missing character: There is no “ in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
 Missing character: There is no ̈ in font ptmr7t!
 Missing character: There is no ̈ in font ptmr7t!
- [2]
 Missing character: There is no − in font cmr12!
 Missing character: There is no − in font cmr8!
 Missing character: There is no − in font cmr8!
 
-./main.tex:70: Undefined control sequence.
-l.70 ...}{2\sqrt{3}}       & \quad \text{if } \abs
+./main.tex:91: Undefined control sequence.
+l.91 ...}{2\sqrt{3}}       & \quad \text{if } \abs
                                                   {s_i} \leq \sqrt{3}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -263,28 +277,24 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[3]
+File: img/5.png Graphic file (type QTm)
+<use  "img/5.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: img/6.png Graphic file (type QTm)
+<use  "img/6.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
 Missing character: There is no “ in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
-
-./main.tex:95: Undefined control sequence.
-l.95 \htmladdnormallink
-                       {demo}{http://www.cis.hut.fi/projects/ica/icademo/}.)...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (8.89581pt too wide) in paragraph at lines 94--100
-[]\OT1/ptm/m/n/12 A typ-i-cal ex-am-ple is the ``cock-tail party prob-lem''. (See a de-mo-http://www.cis.hut.fi/projects/ica/icademo/.)
- []
-
-./main.tex:127: Undefined control sequence.
-l.127 \htmladdnormallink
+ [6]
+./main.tex:159: Undefined control sequence.
+l.159 \htmladdnormallink
                         {{\em principal component analysis} (PCA)}{../pca/in...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -292,9 +302,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[4] [5] [6] [7] [8]
-./main.tex:453: Undefined control sequence.
-l.453 This is a \htmladdnormallink
+[7] [8] [9] [10] [11]
+./main.tex:485: Undefined control sequence.
+l.485 This is a \htmladdnormallink
                                   {demo}{http://www.cis.hut.fi/projects/ica/...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -302,23 +312,30 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[9] [10] [11]
+[12] [13] [14]
 Missing character: There is no ́ in font ptmr7t!
 Missing character: There is no ́ in font ptmr7t!
- [12]
+ [15]
 Missing character: There is no ’ in font ptmr7t!
- [13]
+ [16]
 Missing character: There is no ̈ in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
- [14] (./main.aux) ) 
+Missing character: There is no “ in font ptmr7t!
+Missing character: There is no ” in font ptmr7t!
+Missing character: There is no – in font ptmr7t!
+ [17]
+Missing character: There is no – in font ptmr7t!
+Missing character: There is no – in font ptmr7t!
+Missing character: There is no ̈ in font ptmr7t!
+ [18] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3872 strings out of 493591
- 56832 string characters out of 6143546
+ 3895 strings out of 493591
+ 56961 string characters out of 6143546
  128429 words of memory out of 5000000
- 7284 multiletter control sequences out of 15000+600000
+ 7290 multiletter control sequences out of 15000+600000
  27587 words of font info for 66 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  27i,9n,35p,1051b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (14 pages).
+Output written on main.pdf (18 pages).
