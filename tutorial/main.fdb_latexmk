@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1496595523 "main.tex" "main.pdf" "main" 1496595524
+["pdflatex"] 1496642812 "main.tex" "main.pdf" "main" 1496642813
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1136768653 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -42,9 +42,9 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt" 1492870139 3520374 473ed07d4fa2c06354b82b1d3951f557 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "main.aux" 1496595524 300 e8e4c6608455efc74e8c3ed85c9c6fae ""
-  "main.tex" 1496595523 1482 355acf8d186fad376a02ef4370c27dfc ""
+  "main.aux" 1496642813 300 57a428300885bf414e05766b5936e3f1 ""
+  "main.tex" 1496642811 5530 d35317b8fa9f87a5811036ebff4d7ccf ""
   (generated)
   "main.aux"
-  "main.log"
   "main.pdf"
+  "main.log"
